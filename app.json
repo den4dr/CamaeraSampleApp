@@ -1,0 +1,12 @@
+{
+  "name": "camera-sample-app",
+  "displayName": "camera-sample-app",
+  "expo": {
+    "name": "camera-sample-app",
+    "slug": "camera-sample-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
